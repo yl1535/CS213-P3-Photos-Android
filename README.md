@@ -19,4 +19,4 @@ New feature: Allow for auto-completion when searching by person or location. In 
     * VII. Slide Show Button(Overall) - The upper right button with icon of calander. Works for opening slide show mode. Note that in slide show mode, the user clicks area of the photo will move the slide show to the next photo by selected sequence of forwards or backwards, and clicking area outside the photo will immediately exit the slide show mode.
 
 # Note
-This repository is copied from the original repository, which is set to private and due to some reasons cannot be fixed. The original commit history has been made into screenshots and attached in this repository.
+This repository is copied from the original repository, which is set to private and due to some reasons cannot be fixed. The original commit history has been made into screenshots and attached in this repository. Due to internet connection issues, if the screenshots cannot be viewed online, please view them after clone or pull down the git repository.
